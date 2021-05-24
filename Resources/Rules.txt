@@ -1,0 +1,4 @@
+:one:Blackjack games have a bet cap of 100000,
+:two:Roulette has a bet cap of 100000000,
+:three:If you have no money do '!beg' to get a random ammount of money,
+:four:To purchase a role you must have banked the money

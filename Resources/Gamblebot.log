@@ -1,0 +1,11 @@
+INFO:root:[20:42:08]Booting...
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has sent the IDENTIFY payload.
+INFO:discord.gateway:Shard ID None has connected to Gateway: ["gateway-prd-main-r84b",{"micros":59250,"calls":["discord-sessions-prd-2-24",{"micros":56439,"calls":["start_session",{"micros":43660,"calls":["api-prd-main-b7sn",{"micros":37807,"calls":["get_user",{"micros":2544},"add_authorized_ip",{"micros":1644},"get_guilds",{"micros":6388},"coros_wait",{"micros":0}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":10257,"calls":[]}]}]}] (Session ID: 99a5bff006f15969edec1dbd3cda4e33).
+INFO:root:[20:42:11]Gamble bot ready!
+INFO:root:[20:42:17]Command cooldown for blockheadbandit
+INFO:root:[20:43:02]Command cooldown for blockheadbandit
+INFO:root:[20:43:49]blockheadbandit Requested Millionaire with insufficient funds
+INFO:root:[20:44:13]blockheadbandit Banked 1000000
+INFO:root:[20:44:19]blockheadbandit Purchased Millionaire
+INFO:root:[20:44:30]blockheadbandit Purchased VIP
